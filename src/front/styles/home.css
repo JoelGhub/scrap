@@ -1,0 +1,33 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    color: #333;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-header {
+    margin-bottom: 30px;
+}
+
+.home-logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.home-content {
+    max-width: 600px;
+    margin: auto;
+}
+
+.home-login-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+
+/* Agrega más estilos según tus preferencias */
